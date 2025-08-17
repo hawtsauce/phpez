@@ -46,7 +46,7 @@ The **phpez GUI** provides an interactive interface for managing your PHP stack:
 - Quick access to `phpMyAdmin` and project directories
 - Responsive layout and clean design
 
-> The GUI replaces the need for manual CLI commands for common tasks and manages the same components installed via the installer.
+> Just type in `phpez` in your terminal, and you're ready to use the GUI.
 
 ---
 
